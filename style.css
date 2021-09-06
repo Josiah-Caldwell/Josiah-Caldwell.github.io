@@ -1,0 +1,39 @@
+p {
+	display: inline; 
+	word-spacing: 0px;
+}
+head {
+	text-align: center;
+}
+
+#toUnderline {
+	display: inline; 
+	text-decoration: underline;
+	word-spacing: 0px;
+}
+#toHighlight {
+	display: inline; 
+	background-color:orange;
+	word-spacing: 0px;
+}
+#toRedBold {
+	display: inline; 
+	word-spacing: 0px;
+	color:red;
+	font-weight: bold;
+}
+#toCenter {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	width: 30%
+}
+image {
+	display: inline; 
+	margin-left: auto;
+	margin-right: auto;
+}
+a {
+	margin-left: auto;
+	margin-right: auto;
+}
